@@ -62,5 +62,21 @@ Designed and prototyped ideas for e-commerce products. Worked on branding creati
 
 
 ### Education
+_2011 –2016_\
+**Designer (BA in Arts)**\
+Media and Visual Design Faculty European Humanities University Vilnius (Lithuania)
+
+_2008 –2013_\
+**Journalist (BA in Journalism)**\
+Instutite of Journalism Belarussian State University Minsk (Belarus)
+
 
 ### Languages
+**English**\
+Level: C1+\
+Proficient with speaking, business and technical English.\
+
+**Spanish**\
+Level: A2\
+Proficient with basic speaking Spanish.
+
