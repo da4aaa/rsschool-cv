@@ -6,14 +6,14 @@ Recently I realised that adding Front-end development skills to my skillset woul
 
 
   
-### Contact info
+## Contact info
 **Email:** da4aaa@gmail.com\
 **Phone:** +375(29)359-87-66\
 **Telegram:** @da4aaa
 
 
 
-### Skills
+## Skills
 | Design           | Research               | Tools          |
 | :---             | :---                   | :---      |
 | User Experience  | Competitive Analysis   | Figma           |
@@ -23,7 +23,7 @@ Recently I realised that adding Front-end development skills to my skillset woul
 
 
 
-### Latest code examples
+## Latest code examples
 Unfortunately so far I don't have decent code examples, so will go with simple html copy pasted from https://www.w3schools.com/html/html_emojis.asp. Hope it won't be a problem.
 
 ```html
@@ -42,7 +42,7 @@ Unfortunately so far I don't have decent code examples, so will go with simple h
 
 ```
 
-### Experience
+## Experience
 **UX Designer at EPAM Systems**\
 _Sep, 2019 — Till now_\
 Creating design for desktop and mobile applications, style guides. Collaborating with client and developers.
@@ -53,6 +53,8 @@ Building CMS system, helping scholarship providers to publish
 their offers on a special platform.
 Helding UX researches, testing ideas, prototyping.
 
+
+
 **UX/UI Designer at Ibrush LTD**\
 _Jan, 2015 — Dec, 2018_\
 Designed interfaces, websites and mobile applications from scratch. Held usability tests in order to find and solve UX issues. Led research by designing survey and storyboard studies to validate design concepts. 
@@ -61,20 +63,26 @@ Designed interfaces, websites and mobile applications from scratch. Held usabili
 Designed and prototyped ideas for e-commerce products. Worked on branding creation (logo design, corporate style).
 
 
-### Education
+
+
+## Education
 _2011 –2016_\
 **Designer (BA in Arts)**\
-Media and Visual Design Faculty European Humanities University Vilnius (Lithuania)
+Media and Visual Design Faculty European Humanities University\
+Vilnius (Lithuania)
 
 _2008 –2013_\
 **Journalist (BA in Journalism)**\
-Instutite of Journalism Belarussian State University Minsk (Belarus)
+Instutite of Journalism Belarussian State University\
+Minsk (Belarus)
 
 
-### Languages
+
+
+## Languages
 **English**\
 Level: C1+\
-Proficient with speaking, business and technical English.\
+Proficient with speaking, business and technical English.
 
 **Spanish**\
 Level: A2\
