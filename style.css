@@ -12,6 +12,11 @@ h2 {
     font-size: 1.8rem;
 }
 
+a {
+    text-decoration: none;
+    color: darkblue;
+}
+
 .wrapper {
     max-width: 1024px;
     margin: 0 auto;
@@ -73,6 +78,8 @@ section {
     width: 100%;
     font-size: 1rem;
     text-align: left;
+
+    stroke: 1px solid black;
 }
 
 .skills thead tr th {
