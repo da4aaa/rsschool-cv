@@ -4,18 +4,144 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 10px;
 }
+h1 {
+    font-size: 3.2rem;
+    font-weight: 900;
+}
+h2 {
+    font-size: 1.8rem;
+}
 
 .wrapper {
     max-width: 1024px;
     margin: 0 auto;
 }
+.title {
+    text-align: center;
+}
+.header-nav {
+    font-size: 1.1rem;
+    font-weight: 400;
+    text-align: center;
+}
+.header-nav ul {
+    list-style-type: none;
+    padding-left: 0;
+    padding-bottom: 15px;
+}
+
+.header-nav ul li{
+    display: inline-block;
+    list-style-type: none;
+    margin: 10px 10px;
+    padding: 10px 10px;
+    border-radius: 5px;
+    background-color: #BAEDFF;
+}
+
+.header-nav ul li:hover{
+    background-color: #9ADAF0;
+}
 
 
-
-
+.starter {
+    margin-top: 70px;
+}
+.starter p {
+    font-size: 1.1rem;
+    line-height: 1.7rem;
+    text-align: center;
+}
 
 .starter img {
     width: 150px;
     height: 150px;
     border-radius: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+.contact-item {
+    font-size: 1rem;
+    margin-bottom: 15px;
+}
+
+.skills table {
+    width: 100%;
+    font-size: 1rem;
+    text-align: left;
+}
+
+.skills thead tr th {
+    padding: 12px;
+    background-color: #E6EEF0;
+}
+
+.skills tbody tr td {
+    background-color: #ffffff;
+    border: 0px solid #ddd;
+    padding: 8px;
+  }
+
+.experience-item {
+    font-size: 1rem;
+    margin-bottom: 30px;
+}
+.experience-title {
+    font-weight: 900;
+    margin-bottom: 10px;
+}
+.experience-date {
+    font-weight: 200;
+    font-size: 0.8rem;
+    color: #838383;
+    margin: 0;
+}
+.experience-details {
+    line-height: 1.7rem;
+    margin-top: 10px;
+}
+
+
+.eductaion-item {
+    font-size: 1rem;
+    margin-bottom: 30px;
+}
+.education-type {
+    font-weight: 900;
+    margin-bottom: 10px;
+}
+.education-year {
+    font-weight: 200;
+    font-size: 0.8rem;
+    color: #838383;
+    margin: 0;
+}
+.education-description {
+    line-height: 1.7rem;
+    margin-top: 10px;
+}
+.education-location {
+    color: #666666;
+}
+
+
+.language-item {
+    font-size: 1rem;
+    margin-bottom: 30px;
+}
+.language-name {
+    font-weight: 600;
+    font-size: 1rem;
+    margin-bottom: 10px;
+}
+.language-level {
+    font-weight: 200;
+    font-size: 0.8rem;
+    color: #838383;
+    margin: 0;
+}
+.language-description {
+    line-height: 1.7rem;
+    margin-top: 10px;
 }
